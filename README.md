@@ -71,5 +71,5 @@ However, in the **unsupervised learning phase**, both **K-Means** and **DBSCAN**
 
 ---
 
-🔗 **Notebook**: [View on Google Colab](https://colab.research.google.com/drive/1YW85WScqkZJg2i3ze1pLU2Sy97kBA9bl?usp=sharing)
+🔗 **Notebook**: [Unsupervised ML Notebook](https://colab.research.google.com/drive/1YW85WScqkZJg2i3ze1pLU2Sy97kBA9bl?usp=sharing)
 
